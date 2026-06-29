@@ -1,5 +1,3 @@
-# Regex
-
 ## Regex Cheat Sheet
 
 ```text
